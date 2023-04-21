@@ -1,19 +1,9 @@
-# Bed_Mesh_Adaptatif_Klipper
-
 
 ##  ##
 
 <div align="center">
   
-![image](https://github.com/Eloura74/Purge_Adaptive_Klipper/blob/main/image/Readme.png)
-  
-</div>
-
-##  ##
-
-<div align="center">
-  
-# **Bed Mesh Adaptatif Klipper** #
+![image](https://github.com/Eloura74/Bed_Mesh_Adaptatif_Klipper/blob/main/Images/ReadMe.png)
   
 </div>
 
