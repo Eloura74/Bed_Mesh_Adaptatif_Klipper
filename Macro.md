@@ -79,3 +79,5 @@ Il est **très important** que les **SETUP_macros** soient appelées avant la ma
 <br>
 
 Et voila vous pouvez avoir un Maillage de Lit adaptatif , plus rapide, plus précis sur Klipper.
+<br>
+Si vous souhaitez mettre en place dans la même idée une **Purge Adaptative** aller voir [ICI](https://github.com/Eloura74/Purge_Adaptive_Klipper)
